@@ -1,6 +1,3 @@
-# Burhanuddin Irsyad
-**Data Scientist | Data Analyst | Data Engineer**
-
 Result-oriented and analytically minded Data Science student with proven experience delivering clean ETL pipelines, analysis-ready datasets, and decision-grade dashboards using Python, SQL, Power BI, and Tableau. Experienced in transforming multi-source data into accurate, secure, and scalable workflows supporting analytics, machine learning, and business insights across public-sector and startup environments. Strong capabilities in data validation, governance, and cross-functional collaboration with both technical and non-technical stakeholders. Committed to applying data-driven thinking to high-impact initiatives, including public sector and energy-related domains.
 
 ---
